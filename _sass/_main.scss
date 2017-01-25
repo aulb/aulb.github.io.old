@@ -9,10 +9,14 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: 'Open Sans', sans-serif;
-    color: #262626;
-    background-color: #ececee;
     font-size: 1em;
     line-height: 1.7em;
+    color: $grey-color !important;
+}
+
+/* Overwrite Semantic's default color */
+.ui.header {
+    color: $grey-color;
 }
 
 /* Main div, the only div */

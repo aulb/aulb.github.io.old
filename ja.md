@@ -6,7 +6,9 @@ layout: default
 
 		<div class="ui text container left aligned">
 			<h1 class="ui header">トロントよりアルバートです！</h1>
-			<p>私のページへようこそ！ソフトウェアの就職の機会がいればいつでもどこでも歓迎です。お問い合わせリンクスはどうぞ 😊. <a href="/">ここは</a> 英語のページです。</p>
+			<p>私のページへようこそ！ソフトウェアの就職の機会がいればいつでもどこでも歓迎です。お問い合わせリンクスはどうぞ😊みてくださいね！<a href="/">ここは</a> 英語のページです。</p>
+
+			<p>愛を込めて💝</p>
 		</div>
 
 		<div class="ui divider"></div>
