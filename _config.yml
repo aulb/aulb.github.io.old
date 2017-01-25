@@ -1,0 +1,12 @@
+# Site settings
+title: albert
+email: aalbertuntung@gmail.com
+description: "Albert's personal website!"
+baseurl: "" # base
+url: "http://albert.wtf/" # base
+github_username: aulb
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock

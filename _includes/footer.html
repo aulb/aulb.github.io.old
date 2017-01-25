@@ -1,0 +1,12 @@
+<footer>
+		<div>
+			{% if site.github_username %}
+				{{ site.github_username }}
+			{% endif %}
+			
+			{% if site.twitter_username %}
+				| {{ site.twitter_username }}
+			{% endif %}
+		</div>
+		<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</footer>
