@@ -5,8 +5,8 @@ layout: default
 	<div id="inner">
 
 		<div class="ui text container left aligned">
-			<h1 class="ui header">hi! albert here,</h1>
-			<p>based in toronto but always open for new exciting opportunities elsewhere. feel free to reach out, will always be monitoring these links below 😊. you can click <a href="/ja">here</a> for a language switcheroo.</p>
+			<h1 class="ui header">トロントよりアルバートです！</h1>
+			<p>私のページへようこそ！ソフトウェアの就職の機会がいればいつでもどこでも歓迎です。お問い合わせリンクスはどうぞ 😊. <a href="/">ここは</a> 英語のページです。</p>
 		</div>
 
 		<div class="ui divider"></div>

@@ -4,9 +4,14 @@ email: aalbertuntung@gmail.com
 description: "Albert's personal website!"
 baseurl: "" # base
 url: "http://albert.wtf/" # base
-github_username: aulb
 
 # Build settings
 exclude:
   - Gemfile
   - Gemfile.lock
+  - CNAME
+  - LICENSE
+  - README.md
+
+github_username: aulb
+linkedin_username: albert-untung

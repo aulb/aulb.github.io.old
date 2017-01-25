@@ -14,3 +14,24 @@ body {
     font-size: 1em;
     line-height: 1.7em;
 }
+
+/* Main div, the only div */
+
+div#outer {
+	height: 100%;
+	position: relative;
+	text-align: center;
+}
+
+div#inner {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	filter:alpha(opacity=60);
+}
+
+div#ramble {
+	font-size: 32px;
+}
