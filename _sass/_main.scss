@@ -39,3 +39,22 @@ div#inner {
 div#ramble {
 	font-size: 32px;
 }
+
+/* keyframe animations */
+@-webkit-keyframes fadeIn {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+#main {
+	-webkit-animation-fill-mode: forwards;
+	-webkit-animation-name: fadeIn;
+	-webkit-animation-duration: 1s;
+	-moz-animation-fill-mode: forwards;
+	-moz-animation-name: fadeIn;
+	-moz-animation-duration: 1s;
+}
