@@ -2,6 +2,6 @@
 layout: default
 ---
 <h1 class="ui header">hi! albert here,</h1>
-<p>based in toronto but always open for new exciting opportunities elsewhere. feel free to reach out, will always be monitoring these links below 😊 you can click <a href="/ja">here</a> for a language switcheroo.</p>
+<p>highly motivated, detail-oriented, capable software engineer based in toronto. i enjoy working on technically challenging projects and am a fast learner. my career interests fall under data sciences, full stack development, and more recently machine learning and computer vision.</p>
 
-<p>made with love 💝</p>
+<p>feel free to reach out to me on any of the links below. you can click <a href="/ja">here</a> for a language switcheroo. 😊</p>
