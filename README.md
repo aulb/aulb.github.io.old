@@ -1,12 +1,9 @@
 jekyll
 Semantic UI
 
-
 *Going to hide behind Github's server*
 
 Todo:
-- Favico
-- Simple Animation
 - Update description
 
 UI Update:
@@ -14,4 +11,6 @@ UI Update:
 - Update language change
 - Update background to be interactive
 
-CSS Webkit animation.
+Plans for the week:
+- Leetcode (easy questions)
+- Learn React
