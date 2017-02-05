@@ -8,8 +8,6 @@ Todo:
 
 UI Update:
 - Update link to project
-- Update language change
-- Update background to be interactive
 
 Plans for the week:
 - Leetcode (easy questions)
