@@ -11,7 +11,7 @@ layout: null
 <body>
 	<table id="tbl">
 	</table>
-	<input type="number" default=4 id="n" placeholder="Input a number! :)"><br>
+	<input type="number" id="n" placeholder="Input a number! :)"><br>
 	<button type="button" id="reset">Reset Game</button>
 </body>
 <script type="text/javascript" src="lib/js/puzzle.js"></script>
