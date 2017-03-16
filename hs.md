@@ -13,6 +13,7 @@ layout: null
 	</table>
 	<input type="number" id="n" placeholder="Input a number! :)"><br>
 	<button type="button" id="reset">Reset Game</button>
+	<p data-idx="3" id="a">Hello</p>
 </body>
 <script type="text/javascript" src="lib/js/puzzle.js"></script>
 </html>
