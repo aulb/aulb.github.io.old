@@ -1,7 +1,6 @@
 html {
   height: 100%;
-  background: -webkit-linear-gradient(-94deg, #6f749e 0, #9a8daf 45%, #d0a8b9 69%, #f8bbb1 80%, #fde6b1 100%);
-  background: linear-gradient(to -94deg, #6f749e 0, #9a8daf 45%, #d0a8b9 69%, #f8bbb1 80%, #fde6b1 100%);
+  background: #f0f0f0;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -11,10 +10,10 @@ body {
   font-family: Georgia, 'Times New Roman', serif;
   line-height: 1.5;
   margin: 0 auto;
-  color: rgb(69, 69, 69);
+  color: #505050;
   display: table;
   line-height: 1.6;
-  font-size: 1em;
+  font-size: 1.2em;
   padding: 0 1em;
 }
 
@@ -31,22 +30,13 @@ h1, h2, h3, h4, h5 {
 }
 
 a {
-  color: #9b59b6;
+  color: #43ABC9;
   text-decoration: none; 
-  border-bottom: 1px #9b59b6 solid;
-}
-
-a:not(.icons):hover {
-  color: #e67e22;
-  border-bottom: 1px #e67e22 solid;
+  border-bottom: 1px #43ABC9 solid;
 }
 
 .icons {
   border-bottom: none;
-}
-
-.icons:hover {
-  color: #e67e22;
 }
 
 #pfooter {
