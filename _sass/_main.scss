@@ -1,3 +1,4 @@
+// Need this here for the centering trick
 html {
   height: 100%;
   background: #f0f0f0;
@@ -21,6 +22,7 @@ h1, h2, h3, h4, h5 {
   line-height: 1.0;
 }
 
+// Main content
 #content {
   display: table-cell;
   vertical-align: middle;
@@ -42,6 +44,10 @@ a {
 #pfooter {
   text-align: center;
   margin-bottom: 0;
+}
+
+#langSelect {
+  float: right;
 }
 
 hr {
