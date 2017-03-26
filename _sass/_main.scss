@@ -1,4 +1,4 @@
-// Need this here for the centering trick
+/* Need this here for the centering trick */
 html {
   height: 100%;
   background: #f0f0f0;
@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5 {
   line-height: 1.0;
 }
 
-// Main content
+/* Main content */
 #content {
   display: table-cell;
   vertical-align: middle;
@@ -31,14 +31,22 @@ h1, h2, h3, h4, h5 {
   max-width: 34em;
 }
 
+
 a {
   color: #43ABC9;
-  text-decoration: none; 
-  border-bottom: 1px #43ABC9 solid;
+  text-decoration: none;
+
+  &:hover {
+    font-weight: bold;
+  }
 }
 
 .icons {
   border-bottom: none;
+}
+
+.links {
+  // text-decoration: underline; 
 }
 
 #pfooter {
@@ -48,6 +56,14 @@ a {
 
 #langSelect {
   float: right;
+}
+
+#highlight {
+  background: rgba(255, 230, 0, 0.5);
+  padding: 3px 5px;
+  margin: -3px -5px;
+  border-radius: 3px;
+  display:inline-block;
 }
 
 hr {
