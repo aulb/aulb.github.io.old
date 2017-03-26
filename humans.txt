@@ -1,6 +1,11 @@
-normalize.css
+https://necolas.github.io/normalize.css/
 
-humans.txt
+http://humanstxt.org/
 
+http://sass-lang.com/
 
+http://colorsafe.co/
 
+http://babeljs.io/
+
+https://jekyllrb.com/
