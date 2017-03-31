@@ -1,21 +1,23 @@
 /* Need this here for the centering trick */
 html {
   height: 100%;
-  background: #f0f0f0;
+  background: rgba(0,0,0,0); 
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 body {
   height: 100%;
-  font-family: Georgia, 'Times New Roman', serif;
-  line-height: 1.5;
+  font-family: 'Merriweather', 'Times New Roman', serif;
+  letter-spacing: 0.01rem;
+  line-height: 1.75em;
   margin: 0 auto;
-  color: #505050;
+  color: #3A4145;
   display: table;
   line-height: 1.6;
-  font-size: 1.5em;
-  padding: 0 1em;
+  font-size: 1.5rem;
+  padding: 0 3.5em;
+  text-rendering: geometricPrecision;
 }
 
 h1, h2, h3, h4, h5 {

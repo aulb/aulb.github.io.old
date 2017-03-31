@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Albert's Log
+title: Albert's Notes
 ---
 <header>
-	<h1>Ramble</h1>
+	<h1>Notes</h1>
 </header>
 
-I wrote a bunch over the past couple while. Not a regular blog but each one is something that means a lot to me specifically. <a href="/">Click here</a> to go back to the main page.
+<a href="/">Click here</a> to go back to the main page.
 
 <ul>
 {% for post in site.posts  %}

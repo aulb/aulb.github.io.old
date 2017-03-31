@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aomori Prefecture - Small Slice of Tohoku"
+title:  "Aomori Prefecture"
 date:   2016-08-05 00:00:00 -0500
 categories: japan
 ---
@@ -9,7 +9,7 @@ categories: japan
 		Aomori Prefecture - Small Slice of Tohoku
 	</h1>
 </header>
-Small details on our trip encompassing the Aomori Prefecture of Japan. Specifically Aomori and Hachinohe, our first two cities in Japan! After a long day of riding Tohoku bullet train, buying Suica, and nearly getting lost finding our Airbnb, we finally arrived at our first city in Japan, Hachinohe. Be prepared for the strong ocean and occassional kelp smell as it can take a while to get used to.
+Small details on our trip encompassing the Aomori Prefecture of Japan. Specifically Aomori and Hachinohe, our first two cities in Japan! After a long day of riding Tohoku bullet train, buying Suica, and nearly getting lost finding our Airbnb, we finally arrived at our first city in Japan, Hachinohe. Be prepared for the strong salty ocean air!
 
 
 <h2>Hachinohe</h2>
@@ -18,17 +18,16 @@ Why? Good question, my language partners also asked the same thing. They said th
 So what did we do there?
 
 <h3>Seagull Island</h3>
-Kabushima shrine, also known to the locals as seagull island (due to the thousands of seagulls that inhabits this place) is a shrine with a nice scenic view of the Hachinohe bay. What makes this place so special is due its goddess, Benzaiten, which according to this <a href="https://bigontrips.wordpress.com/2011/11/02/kabushima-hachinohes-haven/">blog</a> is well known to bring in monetary luck and financial success. 
+Kabushima shrine, also known to the locals as seagull island (due to the thousands of seagulls that inhabits this place) is a shrine with a nice scenic view of the Hachinohe bay. What makes this place so special is due its goddess, Benzaiten, which according to this <a href="https://bigontrips.wordpress.com/2011/11/02/kabushima-hachinohes-haven/">blog</a> is well known to bring in monetary luck and financial success.
 
-Because there was barely any gulls at the time, we didn't have to use an umbrella while in the area. But in case there is a lot of birds, there are always extra umbrellas around to borrow. 
+Because there was barely any gulls at the time, we didn't have to use an umbrella while in the area. But in case there is a lot of birds, there are always extra umbrellas around to borrow. Also the kelp stench can be a little overwhelming around the marine building around the corner.
 
 <h3>Hasshoku Center</h3>
-Located twenty minutes away from Naganowashiro station was Hachinohe's Hasshoku fish market. Warehouse was an accurate description on what the building looked like. Lots of produce and fresh seafood stalls inside.
-
+Located twenty minutes away from Naganowashiro station was Hachinohe's Hasshoku fish market. The fish market itself was inside a warehouse. Lots of produce and fresh seafood. We ended up having a conveyer belt sushi lunch from Hasshoku Ichiba Zushi (八食市場寿司). I also had my first shave ice in Japan here!
 
 
 <h3>Downtown Hachinohe</h3>
-Food stalls.
+There was a bunch of department stores around the area with nothing too special inside. The main attraction that day was the Hachinohe Sansha Taisha which happens every summer in front of Hachinohe's city hall. With festivals, there was street food stalls set up everywhere in the downtown core. 
 
 
 
