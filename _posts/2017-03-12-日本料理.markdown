@@ -49,8 +49,20 @@ language: jp
 
 
 <h2>🌟ファーストフード店</h2>
+<strong>マクド</strong> みんな好き好き
+
+<strong>すき家</strong>
+
+<strong>モスバーガー</strong>
 
 
+<h2>デザート</h2>
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/nara_kappu_goori.jpg" />
+	<div class="caption">
+		あのほかにもカップ氷、猛暑日で必ず！
+	</div>
+</div>
 
 
 その時の気分 ：<a href="https://www.youtube.com/watch?v=XrH96NRAwLU">STARDUST NIGHT</a>
