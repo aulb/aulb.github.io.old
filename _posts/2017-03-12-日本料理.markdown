@@ -5,7 +5,7 @@ date:   2016-08-05 00:00:00 -0500
 categories: japan
 language: jp
 ---
-<header><h1>食事スライドショーようこそ🍴</h1></header>
+<header><h1>食事スライドショーへようこそ🍴</h1></header>
 日本に８月２０１６遊びに来ておいしいものをたくさん食べた。 食事を食べててとっても楽しい気分になれますよ。友達と一緒に日本ですっっごく楽しいこともしましたから、また行きたい！飯テロ注意、こちらから食事の写真〜
 
 <h2>🌟ラーメン屋</h2>
@@ -60,7 +60,7 @@ language: jp
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/nara_kappu_goori.jpg" />
 	<div class="caption">
-		あのほかにもカップ氷、猛暑日で必ず！
+		ほかにもカップ氷、猛暑日で必ず！
 	</div>
 </div>
 
