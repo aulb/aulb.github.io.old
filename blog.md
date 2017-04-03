@@ -10,6 +10,10 @@ title: Albert's Notes
 
 <ul>
 {% for post in site.posts  %}
-    <li><a href="{{ post.url }}">{{ post.categories[0] | capitalize }}</a></li>
+	{% if post.language == 'en' %}
+    <li><a href="{{ post.url }}">{{ post.title | capitalize }}</a></li>
+    {% endif %}
 {% endfor %}
 </ul>
+
+そよ風

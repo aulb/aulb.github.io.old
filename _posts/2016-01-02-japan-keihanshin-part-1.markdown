@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Keihanshin 1"
+title:  "Keihanshin"
 date:   2016-08-05 00:00:00 -0500
 categories: japan
+language: en
 ---
 <header>
 	<h1>

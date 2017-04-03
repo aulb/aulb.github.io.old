@@ -3,6 +3,8 @@ layout: post
 title:  "Eastern Capital"
 date:   2016-08-05 00:00:00 -0500
 categories: japan
+language: en
+
 ---
 <header>
 	<h1>

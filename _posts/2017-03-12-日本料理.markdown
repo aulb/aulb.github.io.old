@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "飯テロ🍻"
+date:   2016-08-05 00:00:00 -0500
+categories: japan
+language: jp
+---
+<header><h1>食事スライドショーようこそ🍴</h1></header>
+日本に８月２０１６遊びに来ておいしいものをたくさん食べた。 食事を食べててとっても楽しい気分になれますよ。友達と一緒に日本ですっっごく楽しいこともしましたから、また行きたい！飯テロ注意、こちらから食事の写真〜
+
+<h2>🌟ラーメン屋</h2>
+<strong>ラァメンぼーんず</strong>。小さいバースタイルの店で７人座れるカウンターがあった。そして日本でぼくの初めてラーメンは海鮮味噌汁ラーメン！メニューの英語翻訳わかんないにもかかわらず注文した。
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/aomori_menu.jpg" />
+	<div class="caption">
+		「I'll save Chinese noodles」っておもしろい
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/aomori_miso.jpg" />
+	<div class="caption">
+		煮干し味噌マー油らーめん食べたっと思う
+	</div>
+</div>
+
+<strong>一蘭：大阪店</strong>。とんこつ
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/osaka_ichiran.jpg" />
+	<div class="caption">
+		個人ブースで１人じゃない食べた
+	</div>
+</div>
+
+<strong>カラシビ味噌らー麺鬼金棒：千代田店</strong>。いちばんすき
+
+
+<h2>🌟寿司屋</h2>
+<strong>古川市場ののっけ丼。</strong> 魚市場の中では自分で海鮮を買ってすしボールを作れた。５４０円５個入りか１０８０円１０個入りのクーポンを買えた。１トッピングずつ１か２チケット必要で大きいのは３チケット必要だった。「どこからきたの？」って市場中のおばあちゃんが聞いて卵焼きをくれた。
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/aomori_nokkedon.jpg" />
+	<div class="caption">
+		楽しい作るの🎶
+	</div>
+</div>
+
+
+
+<h2>🌟ファーストフード店</h2>
+
+
+
+
+その時の気分 ：<a href="https://www.youtube.com/watch?v=XrH96NRAwLU">STARDUST NIGHT</a>
