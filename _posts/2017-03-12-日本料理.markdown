@@ -25,16 +25,22 @@ language: jp
 	</div>
 </div>
 
-<strong>一蘭：大阪店</strong>。とんこつ
+<strong>カラシビ味噌らー麺鬼金棒：千代田店</strong>。次、店員さんたち英語で通じると辛さと痺れが選べるラーメン屋。 辛いだけのラーメンたくさんある。塩辛すぎとんこつ麺をもらったのですが、最高だ。
 
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/tokyo_ramen.jpg" />
+	<div class="caption">
+		汁おいしかったー、ちゃすおいしかった
+	</div>
+</div>
+
+<strong>一蘭：ドントン彫り店</strong>。ちょっと辛い物た食べれるから辛チャレンジしない。いつものラーメンが別に何もないよ。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/osaka_ichiran.jpg" />
 	<div class="caption">
 		個人ブースで１人じゃない食べた
 	</div>
 </div>
-
-<strong>カラシビ味噌らー麺鬼金棒：千代田店</strong>。いちばんすき
 
 
 <h2>🌟寿司屋</h2>
@@ -43,6 +49,31 @@ language: jp
 	<img class="blogpic" src="/photos/food/aomori_nokkedon.jpg" />
 	<div class="caption">
 		楽しい作るの🎶
+	</div>
+</div>
+
+<strong>新宿で板前寿司</strong>。おやじ
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/tokyo_sushi2.jpg" />
+	<div class="caption">
+		カリフォルニアロールは日本より大きい
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/tokyo_sushi.jpg" />
+	<div class="caption">
+		みんなすきすきサルモン寿司
+	</div>
+</div>
+
+
+<h2>日本料理</h2>
+<strong>三日月</strong>
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kyoto_teishoku.jpg" />
+	<div class="caption">
+		おそいサビス、４０分かかった
 	</div>
 </div>
 
@@ -56,7 +87,19 @@ language: jp
 <strong>モスバーガー</strong>
 
 
+もんじゃ焼き
+
+
 <h2>デザート</h2>
+<strong>デイリーチコ：中野</strong>。安い
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/tokyo_nakano_nagai_aisu.jpg" />
+	<div class="caption">
+		「子供の頃の夢が叶うソフトクリーム」
+	</div>
+</div>
+
+
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/nara_kappu_goori.jpg" />
 	<div class="caption">
@@ -65,4 +108,4 @@ language: jp
 </div>
 
 
-その時の気分 ：<a href="https://www.youtube.com/watch?v=XrH96NRAwLU">STARDUST NIGHT</a>
+〆の挨拶、その時の気分は<a href="https://www.youtube.com/watch?v=WkdtmT8A2iY">WHY</a>。《なぜためらう？》。おやすみ〜
