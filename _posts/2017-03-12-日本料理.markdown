@@ -30,7 +30,7 @@ language: jp
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_ramen.jpg" />
 	<div class="caption">
-		汁おいしかったー、ちゃすおいしかった
+		汁おいしかったー、ちゃすおいしかったー
 	</div>
 </div>
 
@@ -56,7 +56,7 @@ language: jp
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_sushi2.jpg" />
 	<div class="caption">
-		カリフォルニアロールは日本より大きい
+		カリフォルニアロールは日本より大きかった
 	</div>
 </div>
 
