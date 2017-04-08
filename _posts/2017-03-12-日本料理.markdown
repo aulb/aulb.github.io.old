@@ -6,20 +6,20 @@ categories: japan
 language: jp
 ---
 <header><h1>食事スライドショーへようこそ🍴</h1></header>
-日本に８月２０１６遊びに来ておいしいものをたくさん食べた。 食事を食べててとっても楽しい気分になれますよ。友達と一緒に日本ですっっごく楽しいこともしましたから、また行きたい！飯テロ注意、こちらから食事の写真〜
+日本に８月２０１６遊びに行っておいしいものをたくさん食べた。 食事を食べててとっても楽しい気分になれますよ。友達と一緒に日本ですっっごく楽しいこともしましたから、また行きたい！飯テロ注意、こちらから食事の写真〜
 
 <h2>🌟ラーメン屋</h2>
 <strong>ラァメンぼーんず</strong>。小さいバースタイルの店で７人座れるカウンターがあった。そして日本でぼくの初めてラーメンは海鮮味噌汁ラーメン！メニューの英語翻訳わかんないにもかかわらず注文した。
 
 <div class="capContainer">
-	<img class="blogpic" src="/photos/food/aomori_menu.jpg" />
+	<img class="blogpic" src="/photos/food/aomori_menu.jpeg" />
 	<div class="caption">
 		「I'll save Chinese noodles」っておもしろい
 	</div>
 </div>
 
 <div class="capContainer">
-	<img class="blogpic" src="/photos/food/aomori_miso.jpg" />
+	<img class="blogpic" src="/photos/food/aomori_miso.jpeg" />
 	<div class="caption">
 		煮干し味噌マー油らーめん食べたっと思う
 	</div>
@@ -28,7 +28,7 @@ language: jp
 <strong>カラシビ味噌らー麺鬼金棒：千代田店</strong>。次、店員さんたち英語で通じると辛さと痺れが選べるラーメン屋。 辛いだけのラーメンたくさんある。塩辛すぎとんこつ麺をもらったのですが、最高だ。
 
 <div class="capContainer">
-	<img class="blogpic" src="/photos/food/tokyo_ramen.jpg" />
+	<img class="blogpic" src="/photos/food/tokyo_ramen.jpeg" />
 	<div class="caption">
 		汁おいしかったー、ちゃすおいしかったー
 	</div>
@@ -36,7 +36,7 @@ language: jp
 
 <strong>一蘭：ドントン彫り店</strong>。ちょっと辛い物た食べれるから辛チャレンジしない。いつものラーメンが別に何もないよ。
 <div class="capContainer">
-	<img class="blogpic" src="/photos/food/osaka_ichiran.jpg" />
+	<img class="blogpic" src="/photos/food/osaka_ichiran.jpeg" />
 	<div class="caption">
 		個人ブースで１人じゃない食べた
 	</div>
@@ -46,7 +46,7 @@ language: jp
 <h2>🌟寿司屋</h2>
 <strong>古川市場ののっけ丼。</strong> 魚市場の中では自分で海鮮を買ってすしボールを作れた。５４０円５個入りか１０８０円１０個入りのクーポンを買えた。１トッピングずつ１か２チケット必要で大きいのは３チケット必要だった。「どこからきたの？」って市場中のおばあちゃんが聞いて卵焼きをくれた。
 <div class="capContainer">
-	<img class="blogpic" src="/photos/food/aomori_nokkedon.jpg" />
+	<img class="blogpic" src="/photos/food/aomori_nokkedon.jpeg" />
 	<div class="caption">
 		楽しい作るの🎶
 	</div>
@@ -54,14 +54,14 @@ language: jp
 
 <strong>新宿で板前寿司</strong>。おやじ
 <div class="capContainer">
-	<img class="blogpic" src="/photos/food/tokyo_sushi2.jpg" />
+	<img class="blogpic" src="/photos/food/tokyo_sushi2.jpeg" />
 	<div class="caption">
 		カリフォルニアロールは日本より大きかった
 	</div>
 </div>
 
 <div class="capContainer">
-	<img class="blogpic" src="/photos/food/tokyo_sushi.jpg" />
+	<img class="blogpic" src="/photos/food/tokyo_sushi.jpeg" />
 	<div class="caption">
 		みんなすきすきサルモン寿司
 	</div>
@@ -71,7 +71,7 @@ language: jp
 <h2>日本料理</h2>
 <strong>三日月</strong>
 <div class="capContainer">
-	<img class="blogpic" src="/photos/food/kyoto_teishoku.jpg" />
+	<img class="blogpic" src="/photos/food/kyoto_teishoku.jpeg" />
 	<div class="caption">
 		おそいサビス、４０分かかった
 	</div>
@@ -93,7 +93,7 @@ language: jp
 <h2>デザート</h2>
 <strong>デイリーチコ：中野</strong>。安い
 <div class="capContainer">
-	<img class="blogpic" src="/photos/food/tokyo_nakano_nagai_aisu.jpg" />
+	<img class="blogpic" src="/photos/food/tokyo_nakano_nagai_aisu.jpeg" />
 	<div class="caption">
 		「子供の頃の夢が叶うソフトクリーム」
 	</div>
@@ -101,7 +101,7 @@ language: jp
 
 
 <div class="capContainer">
-	<img class="blogpic" src="/photos/food/nara_kappu_goori.jpg" />
+	<img class="blogpic" src="/photos/food/nara_kappu_goori.jpeg" />
 	<div class="caption">
 		ほかにもカップ氷、猛暑日で必ず！
 	</div>
