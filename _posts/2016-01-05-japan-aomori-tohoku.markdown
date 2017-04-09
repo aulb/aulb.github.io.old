@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Aomori Prefecture"
+title:  "JP Trip But not done hohoho"
 date:   2016-08-05 00:00:00 -0500
 categories: japan
+helper: blog
 ---
 <header>
 	<h1>
-		Aomori Prefecture - Small Slice of Tohoku
+		uh ok
 	</h1>
 </header>
 Small details on our trip encompassing the Aomori Prefecture of Japan. Specifically Aomori and Hachinohe, our first two cities in Japan! After a long day of riding Tohoku bullet train, buying Suica, and nearly getting lost finding our Airbnb, we finally arrived at our first city in Japan, Hachinohe. Be prepared for the strong salty ocean air!

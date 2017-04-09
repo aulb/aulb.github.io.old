@@ -15,7 +15,7 @@ body {
   color: #3A4145;
   display: table;
   line-height: 1.6;
-  font-size: 1.5em;
+  font-size: 1.4em;
   text-rendering: geometricPrecision;
 }
 
@@ -29,8 +29,29 @@ h1, h2, h3, h4, h5, h6 {
   vertical-align: middle;
   // Padding for mobiles and stuff
   padding: 1em;
+  min-width: 34em;
   max-width: 34em;
 }
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#logo {
+  float: left;  
+}
+
+#option {
+  float: right;
+//  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
 
 a {
   color: #43ABC9;
@@ -47,7 +68,7 @@ a {
 
 #pfooter {
   text-align: center;
-  margin-bottom: 0em;
+  rgin-bottom: 0em;
 }
 
 #copyright {

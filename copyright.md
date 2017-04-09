@@ -1,8 +1,7 @@
 ---
-layout: err
+layout: default
 ---
-<header><h1>Copyright</h1></header>
-©Albert Untung and albert.wtf, 2017. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Albert Untung and albert.wtf with appropriate and specific direction to the original content.
+<small>
+©Albert Untung and albert.wtf, {{ site.time | date: '%Y' }}. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Albert Untung and albert.wtf with appropriate and specific direction to the original content.</small>
 
-<strong>Disclaimer</strong>: Opinions expressed here represent my own.
-<a href="/">Main page</a>
+<small><strong>Disclaimer</strong>: Opinions expressed here represent my own.</small>
