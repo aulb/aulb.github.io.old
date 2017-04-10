@@ -53,6 +53,8 @@ helper: blog
 	</div>
 </div>
 
+<!-- todo -->
+
 <strong>新宿で板前寿司</strong>。おやじ
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_sushi2.jpeg" />
@@ -87,7 +89,7 @@ helper: blog
 
 <strong>モスバーガー</strong>
 
-
+そよ風
 もんじゃ焼き
 
 
