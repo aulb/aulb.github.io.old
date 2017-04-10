@@ -1,0 +1,9 @@
+<h2>Options</h2>
+<div>
+{% if page.options %}
+    {% for option in page.options %}
+        {% capture filename %}pokevis/option_{{option}}.html{% endcapture %}
+        {% include {{filename}} %}
+    {% endfor %}
+{% endif %}
+</div>

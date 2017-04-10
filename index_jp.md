@@ -1,6 +1,6 @@
 ---
 layout: default
-title: トロントより、アルバート
+title: トロントより、あるばーと
 lang: jp
 helper: index
 ---

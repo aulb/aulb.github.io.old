@@ -4,4 +4,4 @@ title: Albert's Notes
 lang: en
 helper: blog
 ---
-go on the nihongooo one
+Currently migrating from pokeviz.

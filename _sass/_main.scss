@@ -47,7 +47,6 @@ ul {
 
 #option {
   float: right;
-//  display: block;
   text-align: center;
   text-decoration: none;
 }
@@ -73,10 +72,6 @@ a {
 
 #copyright {
   font-size: 0.75em;
-}
-
-#langSelect {
-  float: right;
 }
 
 #highlight {
@@ -147,4 +142,47 @@ hr {
   -moz-animation-fill-mode: forwards;
   -moz-animation-name: fadeIn;
   -moz-animation-duration: 1s;
+}
+
+
+/* POKEVIZ SPECIFIC */
+.pokevis_options{
+  display: inline;
+}
+
+label {
+  float: left;
+  clear: none;
+  display: block;
+  padding: 0;
+}
+
+input.radio {
+  float: left;
+  clear: none;
+  margin: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    table-layout: fixed;
+    height: 722px;
+    widht: 722px;
+}
+ 
+td {
+    text-align: center; 
+    vertical-align: middle;
+    color: "#FFFFFF";
+}
+
+img.hidden {
+    visibility: hidden;
+}
+
+img.visible {
+    visibility: visible;
+    display: block; 
+    margin:0 auto; 
 }

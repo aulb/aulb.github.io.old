@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "JP Trip But not done hohoho"
+title:  "First Japan Trip 🇯🇵"
 date:   2016-08-05 00:00:00 -0500
 categories: japan
+lang: en
 helper: blog
 ---
 <header>
