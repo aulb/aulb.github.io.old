@@ -29,7 +29,6 @@ h1, h2, h3, h4, h5, h6 {
   vertical-align: middle;
   // Padding for mobiles and stuff
   padding: 1em;
-  min-width: 34em;
   max-width: 34em;
 }
 
@@ -201,6 +200,10 @@ img.visible {
 
 rect {
     stroke-width: 1;
+}
+
+circle {
+  background: #eee;
 }
 
 .tooltip {

@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: あるばーとの何気無いブログ
+title: あるばーとブログ
 lang: jp
 helper: blog
 ---
-<p>何気ない毎日ブログ、<strong>全ての意見は僕の</strong>。👀</p>
+<p>トロントより、幸せで溢れる何気ない毎日ブログ〜。<strong>全ての意見は僕の</strong>。👀</p>

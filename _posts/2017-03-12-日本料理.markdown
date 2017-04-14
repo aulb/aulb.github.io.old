@@ -70,6 +70,29 @@ helper: blog
 	</div>
 </div>
 
+<strong>Hasshoku Ichiba Zushi</strong>
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/hachinohe_kaitenzushi4.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/hachinohe_kaitenzushi1.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/hachinohe_kaitenzushi3.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+
 
 <h2>日本料理</h2>
 <strong>三日月</strong>
@@ -84,13 +107,134 @@ helper: blog
 
 <h2>🌟ファーストフード店</h2>
 <strong>マクド</strong> みんな好き好き
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kyoto_makudo.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
 
 <strong>すき家</strong>
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kyoto_raw_egg.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
 
 <strong>モスバーガー</strong>
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kyoto_mos.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
 
 そよ風
 もんじゃ焼き
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/tokyo_monjayaki.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/osaka_deluxe_teishoku.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kyoto_eki_donut.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kobe_morya.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kobe_beeeef.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kobe_beef.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kobe_kabocha.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kobe_shiratama_honmono.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/nara_nagood.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/tokyo_combo1.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/tokyo_fakusarada_no_ue.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/tokyo_meronpan.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/hachinohe_amerika_nagai_poteto.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/tokyo_fakusarada.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+
 
 
 <h2>デザート</h2>
