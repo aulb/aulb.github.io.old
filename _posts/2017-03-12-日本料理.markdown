@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "飯テロ🍻"
+title:  "日本で食べログ🍻"
 date:   2016-08-05 00:00:00 -0500
 categories: japan
 lang: jp
 helper: blog
 ---
 <header><h1>食事スライドショーへようこそ🍴</h1></header>
-日本に８月２０１６遊びに行っておいしいものをたくさん食べた。 食事を食べててとっても楽しい気分になれますよ。友達と一緒に日本ですっっごく楽しいこともしましたから、また行きたい！飯テロ注意、こちらから食事の写真〜
+日本に８月２０１６遊びに行っておいしいものをたくさん食べた。 食事を食べててとっても楽しい気分になれますよ。友達と一緒に日本ですっっごく楽しいこともしましたから、また行きたい！まだ日本語勉強中だから、間違ったことがあるかもしれない。飯テロ注意、こちらから食事の写真〜
 
 <h2>🌟ラーメン屋</h2>
-<strong>ラァメンぼーんず</strong>。小さいバースタイルの店で７人座れるカウンターがあった。そして日本でぼくの初めてラーメンは海鮮味噌汁ラーメン！メニューの英語翻訳わかんないにもかかわらず注文した。
+<strong><a href="https://tabelog.com/en/aomori/A0201/A020101/2008312/">ラァメンぼーんず</a></strong>。小さいバースタイルの店で７人座れるカウンターがあった。そして日本でぼくの初めてラーメンは海鮮味噌汁ラーメン！メニューの英語翻訳わかんないにもかかわらず注文した。
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/aomori_menu.jpeg" />
@@ -26,7 +26,7 @@ helper: blog
 	</div>
 </div>
 
-<strong>カラシビ味噌らー麺鬼金棒：千代田店</strong>。次、店員さんたち英語で通じると辛さと痺れが選べるラーメン屋。 辛いだけのラーメンたくさんある。塩辛すぎとんこつ麺をもらったのですが、最高だ。
+<strong><a href="https://tabelog.com/en/tokyo/A1310/A131002/13097205/">カラシビ味噌らー麺鬼金棒千代田店</a></strong>。次、店員さんたち英語で通じると辛さと痺れが選べるラーメン屋。 辛いだけのラーメンたくさんある。塩辛すぎとんこつ麺をもらったのですが、最高だ。
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_ramen.jpeg" />
@@ -35,7 +35,7 @@ helper: blog
 	</div>
 </div>
 
-<strong>一蘭：ドントン彫り店</strong>。ちょっと辛い物た食べれるから辛チャレンジしない。いつものラーメンが別に何もないよ。
+<strong><a href="https://www.tripadvisor.jp/Restaurant_Review-g298566-d3944229-Reviews-Ichiran_Dotonbori-Osaka_Osaka_Prefecture_Kinki.html">一蘭ドントン彫り店</a></strong>。ちょっと辛い物た食べれるから辛チャレンジしない。いつものラーメンが別に何もないよ。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/osaka_ichiran.jpeg" />
 	<div class="caption">
@@ -45,7 +45,7 @@ helper: blog
 
 
 <h2>🌟寿司屋</h2>
-<strong>古川市場ののっけ丼。</strong> 魚市場の中では自分で海鮮を買ってすしボールを作れた。５４０円５個入りか１０８０円１０個入りのクーポンを買えた。１トッピングずつ１か２チケット必要で大きいのは３チケット必要だった。「どこからきたの？」って市場中のおばあちゃんが聞いて卵焼きをくれた。
+<strong><a href="http://www.aomori-ichiba.com/nokkedon/">古川市場のっけ丼</a>。</strong> 魚市場の中では自分で海鮮を買ってすしボールを作れた。５４０円５個入りか１０８０円１０個入りのクーポンを買えた。１トッピングずつ１か２チケット必要で大きいのは３チケット必要だった。「どこからきたの？」って市場中のおばあちゃんが聞いて卵焼きをくれた。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/aomori_nokkedon.jpeg" />
 	<div class="caption">
@@ -53,9 +53,8 @@ helper: blog
 	</div>
 </div>
 
-<!-- todo -->
 
-<strong>新宿で板前寿司</strong>。おやじ
+<strong><a href="https://www.tripadvisor.jp/Restaurant_Review-g1066457-d8359710-Reviews-Itamaesushi_Shinjuku_Toho-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html">板前寿司新宿東宝ビル店</a></strong>。おやじ
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_sushi2.jpeg" />
 	<div class="caption">
@@ -70,32 +69,34 @@ helper: blog
 	</div>
 </div>
 
-<strong>Hasshoku Ichiba Zushi</strong>
+<!-- todo -->
+
+<strong><a href="https://tabelog.com/en/aomori/A0203/A020301/2000178/">八食市場寿司</a></strong>
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/hachinohe_kaitenzushi4.jpeg" />
 	<div class="caption">
-		--
+		メニューです〜	
 	</div>
 </div>
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/hachinohe_kaitenzushi1.jpeg" />
 	<div class="caption">
-		--
+		UFOみたい
 	</div>
 </div>
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/hachinohe_kaitenzushi3.jpeg" />
 	<div class="caption">
-		--
+		：）
 	</div>
 </div>
 
 
 
 <h2>日本料理</h2>
-<strong>三日月</strong>
+<strong><a href="https://tabelog.com/en/kyoto/A2601/A260403/26023139/">三日月</a></strong>
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kyoto_teishoku.jpeg" />
 	<div class="caption">
@@ -103,43 +104,21 @@ helper: blog
 	</div>
 </div>
 
-
-
-<h2>🌟ファーストフード店</h2>
-<strong>マクド</strong> みんな好き好き
-<div class="capContainer">
-	<img class="blogpic" src="/photos/food/kyoto_makudo.jpeg" />
-	<div class="caption">
-		--
-	</div>
-</div>
-
-<strong>すき家</strong>
-<div class="capContainer">
-	<img class="blogpic" src="/photos/food/kyoto_raw_egg.jpeg" />
-	<div class="caption">
-		--
-	</div>
-</div>
-
-
-<strong>モスバーガー</strong>
-<div class="capContainer">
-	<img class="blogpic" src="/photos/food/kyoto_mos.jpeg" />
-	<div class="caption">
-		--
-	</div>
-</div>
-
-そよ風
-もんじゃ焼き
+<strong>月島もんじゃ焼き</strong>
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_monjayaki.jpeg" />
 	<div class="caption">
-		--
+		もんじゃ焼き
 	</div>
 </div>
 
+<strong><a href="https://tabelog.com/en/osaka/A2701/A270206/27067981/">宮本むなし新今宮</a></strong> We ate here for 3 days straight 
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/osaka_fried.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/osaka_deluxe_teishoku.jpeg" />
@@ -148,13 +127,7 @@ helper: blog
 	</div>
 </div>
 
-<div class="capContainer">
-	<img class="blogpic" src="/photos/food/kyoto_eki_donut.jpeg" />
-	<div class="caption">
-		--
-	</div>
-</div>
-
+<strong><a href="https://tabelog.com/en/hyogo/A2801/A280101/28000615/">Моря本店</a></strong>。三宮駅近い神戸ビーフステーキレストラン、モーリヤ。なぜモーリヤ？意味は何ですか？「モーリヤとは海、海隣に港町だから名前は完璧です」とウェイターさん説明した。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kobe_morya.jpeg" />
 	<div class="caption">
@@ -185,12 +158,45 @@ helper: blog
 </div>
 
 
+<h2>🌟ファーストフード店</h2>
+<strong>マクド</strong> みんな好き好き
 <div class="capContainer">
-	<img class="blogpic" src="/photos/food/kobe_shiratama_honmono.jpeg" />
+	<img class="blogpic" src="/photos/food/kyoto_makudo.jpeg" />
 	<div class="caption">
 		--
 	</div>
 </div>
+
+<strong>すき家</strong>
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kyoto_raw_egg.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+
+<strong>モスバーガー</strong>
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kyoto_mos.jpeg" />
+	<div class="caption">
+		🍟✨	
+	</div>
+</div>
+
+そよ風
+もんじゃ焼き
+
+<strong>ミスタドーナツ</strong>
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kyoto_eki_donut.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+
+
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/nara_nagood.jpeg" />
@@ -199,8 +205,9 @@ helper: blog
 	</div>
 </div>
 
+<strong>新宿：First Kitchen</strong>
 <div class="capContainer">
-	<img class="blogpic" src="/photos/food/tokyo_combo1.jpeg" />
+	<img class="blogpic" src="/photos/food/tokyo_fakusarada.jpeg" />
 	<div class="caption">
 		--
 	</div>
@@ -213,28 +220,6 @@ helper: blog
 	</div>
 </div>
 
-<div class="capContainer">
-	<img class="blogpic" src="/photos/food/tokyo_meronpan.jpeg" />
-	<div class="caption">
-		--
-	</div>
-</div>
-
-<div class="capContainer">
-	<img class="blogpic" src="/photos/food/hachinohe_amerika_nagai_poteto.jpeg" />
-	<div class="caption">
-		--
-	</div>
-</div>
-
-<div class="capContainer">
-	<img class="blogpic" src="/photos/food/tokyo_fakusarada.jpeg" />
-	<div class="caption">
-		--
-	</div>
-</div>
-
-
 
 
 <h2>デザート</h2>
@@ -246,6 +231,28 @@ helper: blog
 	</div>
 </div>
 
+<strong>What</strong>
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kobe_shiratama_honmono.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/tokyo_meronpan.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
+
+<strong>Extra</strong>
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/hachinohe_amerika_nagai_poteto.jpeg" />
+	<div class="caption">
+		--
+	</div>
+</div>
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/nara_kappu_goori.jpeg" />
@@ -255,4 +262,4 @@ helper: blog
 </div>
 
 
-〆の挨拶、その時の気分は<a href="https://www.youtube.com/watch?v=WkdtmT8A2iY">WHY</a>。《なぜためらう？》。おやすみ〜
+〆の挨拶、その時の気分は<a href="https://www.youtube.com/watch?v=WkdtmT8A2iY">WHY</a>。《なぜためらう？》。
