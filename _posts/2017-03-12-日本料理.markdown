@@ -103,7 +103,7 @@ helper: blog
 <!-- todo -->
 
 
-<strong>月島もんじゃ焼き</strong>
+<strong>月島もんじゃ焼き</strong>。その覚えてない
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_monjayaki.jpeg" />
 	<div class="caption">
@@ -112,7 +112,7 @@ helper: blog
 </div>
 
 
-<strong><a href="https://tabelog.com/en/osaka/A2701/A270206/27067981/">宮本むなし新今宮</a></strong> We ate here for 3 days straight 
+<strong><a href="https://tabelog.com/en/osaka/A2701/A270206/27067981/">宮本むなし新今宮</a></strong>。We ate here for 3 days straight 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/osaka_fried.jpeg" />
 	<div class="caption">
