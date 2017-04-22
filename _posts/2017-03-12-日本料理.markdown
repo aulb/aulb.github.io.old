@@ -103,7 +103,7 @@ helper: blog
 <!-- todo -->
 
 
-<strong>月島もんじゃ焼き</strong>。その覚えてない
+<strong>月島もんじゃ焼き</strong>。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_monjayaki.jpeg" />
 	<div class="caption">
@@ -187,7 +187,7 @@ helper: blog
 	</div>
 </div>
 
-<strong>ミスタドーナツ</strong>。京都駅のミスタードーナツです！抹茶ドリンクtasted like expired milk :(
+<strong>ミスタドーナツ</strong>。京都駅のミスタードーナツです！甘やかした時でも、抹茶ドリンクの後味が悪いさ、期限切れの牛乳味見のようなー、残念。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kyoto_eki_donut.jpeg" />
 	<div class="caption">
@@ -209,21 +209,21 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_fakusarada.jpeg" />
 	<div class="caption">
-		--
+		ファクサラダ？汚い言葉なー
 	</div>
 </div>
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_fakusarada_no_ue.jpeg" />
 	<div class="caption">
-		--
+	おkだ	
 	</div>
 </div>
 
 
 
 <h2>デザート</h2>
-<strong>デイリーチコ：中野</strong>。安い
+<strong>デイリーチコ：中野</strong>。甘やかしてもらえた！安いアイス。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_nakano_nagai_aisu.jpeg" />
 	<div class="caption">
@@ -231,7 +231,7 @@ helper: blog
 	</div>
 </div>
 
-<strong>What</strong>
+<strong><a href="https://www.rokkosan.com/tenrandai/">六甲山の展覧台カーフェ</a></strong>。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kobe_shiratama_honmono.jpeg" />
 	<div class="caption">
