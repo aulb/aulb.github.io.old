@@ -152,7 +152,6 @@ helper: blog
 	</div>
 </div>
 
-
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kobe_kabocha.jpeg" />
 	<div class="caption">
@@ -160,6 +159,31 @@ helper: blog
 	</div>
 </div>
 
+
+<h2>デザート</h2>
+<strong><a href="https://tabelog.com/en/tokyo/A1319/A131902/13001083/">デイリーチコ中野</a></strong>。甘やかしてもらえた！安いアイス。
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/tokyo_nakano_nagai_aisu.jpeg" />
+	<div class="caption">
+		「子供の頃の夢が叶うソフトクリーム」
+	</div>
+</div>
+
+<strong><a href="https://www.rokkosan.com/tenrandai/">六甲山の展覧台カーフェ</a></strong>。
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/kobe_shiratama_honmono.jpeg" />
+	<div class="caption">
+		たしかに1000万ドルの夜景	
+	</div>
+</div>
+
+<strong><a href="http://www.asakusa-kagetudo.com/modules/pico/index.php?content_id=2">浅草花月堂本店</a></strong>。
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/tokyo_meronpan.jpeg" />
+	<div class="caption">
+		クリスピーなパン。バニラアイス入れる！
+	</div>
+</div>
 
 <h2>🌟ファーストフード店</h2>
 <strong>マクド</strong>。北アメリカマクドではメロンソーダが売っているほしい。
@@ -187,19 +211,9 @@ helper: blog
 	</div>
 </div>
 
-<strong>ミスタドーナツ</strong>。京都駅のミスタードーナツです！甘やかした時でも、抹茶ドリンクの後味が悪いさ、期限切れの牛乳味見のようなー、残念。
+<strong>ミスタドーナツ</strong>。京都駅のミスタードーナツです！抹茶ドリンクの後味が悪いさ、期限切れの牛乳味見のようなー、残念。とりあえず、とりあえず、少し甘かったドーナツよかった。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kyoto_eki_donut.jpeg" />
-	<div class="caption">
-		--
-	</div>
-</div>
-
-
-
-
-<div class="capContainer">
-	<img class="blogpic" src="/photos/food/nara_nagood.jpeg" />
 	<div class="caption">
 		--
 	</div>
@@ -209,7 +223,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_fakusarada.jpeg" />
 	<div class="caption">
-		ファクサラダ？汚い言葉なー
+		フックサラダ？汚い言葉なーʬʬ
 	</div>
 </div>
 
@@ -220,40 +234,24 @@ helper: blog
 	</div>
 </div>
 
-
-
-<h2>デザート</h2>
-<strong>デイリーチコ：中野</strong>。甘やかしてもらえた！安いアイス。
-<div class="capContainer">
-	<img class="blogpic" src="/photos/food/tokyo_nakano_nagai_aisu.jpeg" />
-	<div class="caption">
-		「子供の頃の夢が叶うソフトクリーム」
-	</div>
-</div>
-
-<strong><a href="https://www.rokkosan.com/tenrandai/">六甲山の展覧台カーフェ</a></strong>。
-<div class="capContainer">
-	<img class="blogpic" src="/photos/food/kobe_shiratama_honmono.jpeg" />
-	<div class="caption">
-		--
-	</div>
-</div>
-
-<div class="capContainer">
-	<img class="blogpic" src="/photos/food/tokyo_meronpan.jpeg" />
-	<div class="caption">
-		--
-	</div>
-</div>
-
-<strong>Extra</strong>
+<h2>Extra</h2>
+何ですかあのロングポテト？と思えた。三社大祭の間に八戸で写真を取った。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/hachinohe_amerika_nagai_poteto.jpeg" />
 	<div class="caption">
-		--
+		LONG POTATO超〜ロング！ʬ
 	</div>
 </div>
 
+次の写真は奈良駅の近くにあるレストランです！そこレストランの名前英は変な。。英語に翻訳したとたんに。
+<div class="capContainer">
+	<img class="blogpic" src="/photos/food/nara_nagood.jpeg" />
+	<div class="caption">
+		「nagood」とは「not good」下手、良くない。
+	</div>
+</div>
+
+最後！カップ氷のことが大大大すきです。猛暑日でぼくのライブセーファ。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/nara_kappu_goori.jpeg" />
 	<div class="caption">
