@@ -92,38 +92,37 @@ helper: blog
 </div>
 
 <h2>日本料理</h2>
-<strong><a href="https://tabelog.com/en/kyoto/A2601/A260403/26023139/">三日月</a></strong>。遅いサービスのにそばおいしかったと覚えてた。
+<strong><a href="https://tabelog.com/en/kyoto/A2601/A260403/26023139/">三日月</a></strong>。遅いサービス４０分かかったのにそばおいしかったと覚えてた、本当に平凡な。
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kyoto_teishoku.jpeg" />
 	<div class="caption">
-		おそいサビス、４０分かかった
+		から揚げ定食！
 	</div>
 </div>
 <!-- todo -->
 
 
-<strong>月島もんじゃ焼き</strong>。
+<strong>月島でもんじゃ焼き</strong>。そのレストランの名前忘れてる。お好み焼きみたいな食べ物でもべちゃべちゃ、もんじゃ焼きはぼくたちのはじめて。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_monjayaki.jpeg" />
 	<div class="caption">
-		もんじゃ焼き
+		かかていた。。。
 	</div>
 </div>
 
-
-<strong><a href="https://tabelog.com/en/osaka/A2701/A270206/27067981/">宮本むなし新今宮</a></strong>。We ate here for 3 days straight 
+<strong><a href="https://tabelog.com/en/osaka/A2701/A270206/27067981/">宮本むなし新今宮</a></strong>。大阪の飛田新地近くにあるセルフサービス揚げ物屋。そこでは3日間朝ご飯食べた。おいしくて安くてでかなジャンボコンボから、食べたことが満足感し満腹感し気があった。いつかまた行きたい。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/osaka_fried.jpeg" />
 	<div class="caption">
-		--
+		😍
 	</div>
 </div>
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/osaka_deluxe_teishoku.jpeg" />
 	<div class="caption">
-		--
+		毎日食べたい	
 	</div>
 </div>
 
