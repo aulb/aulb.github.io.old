@@ -100,10 +100,9 @@ helper: blog
 		から揚げ定食！
 	</div>
 </div>
-<!-- todo -->
 
 
-<strong>月島でもんじゃ焼き</strong>。そのレストランの名前忘れてる。お好み焼きみたいな食べ物でもべちゃべちゃ、もんじゃ焼きはぼくたちのはじめて。
+<strong>月島でもんじゃ焼き</strong>。そのレストランの名前忘れて。お好み焼きみたいな食べ物でもべちゃべちゃ、もんじゃ焼きはぼくたちのはじめて。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_monjayaki.jpeg" />
 	<div class="caption">
@@ -125,8 +124,6 @@ helper: blog
 		毎日食べたい	
 	</div>
 </div>
-
-<!-- todo -->
 
 
 <strong><a href="https://tabelog.com/en/hyogo/A2801/A280101/28000615/">Моря本店</a></strong>。三宮駅近い神戸ビーフステーキレストラン、モーリヤ。なぜモーリヤ？意味は何ですか？「モーリヤとは海、海隣に港町だから名前は完璧です」とウェイターさん説明した。神戸ビーフは口で早溶けた。
@@ -160,7 +157,7 @@ helper: blog
 
 
 <h2>デザート</h2>
-<strong><a href="https://tabelog.com/en/tokyo/A1319/A131902/13001083/">デイリーチコ中野</a></strong>。甘やかしてもらえた！安いアイス。
+<strong><a href="https://tabelog.com/en/tokyo/A1319/A131902/13001083/">デイリーチコ中野</a></strong>。甘やかしてもらえた！中野でたくさんある味の安くて長い８つアイス、ブレインフリーズ用。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_nakano_nagai_aisu.jpeg" />
 	<div class="caption">
@@ -168,7 +165,7 @@ helper: blog
 	</div>
 </div>
 
-<strong><a href="https://www.rokkosan.com/tenrandai/">六甲山の展覧台カーフェ</a></strong>。
+<strong><a href="https://www.rokkosan.com/tenrandai/">六甲山の展覧台カーフェ</a></strong>。白玉抹茶氷食べてたり超キレイな風景を観てたりしたのことが楽しかった。そのときになにも気にしない。六甲山の上で京阪神が見えるのステキだね〜
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kobe_shiratama_honmono.jpeg" />
 	<div class="caption">
@@ -176,7 +173,7 @@ helper: blog
 	</div>
 </div>
 
-<strong><a href="http://www.asakusa-kagetudo.com/modules/pico/index.php?content_id=2">浅草花月堂本店</a></strong>。
+<strong><a href="http://www.asakusa-kagetudo.com/modules/pico/index.php?content_id=2">浅草花月堂本店</a></strong>。<a href="https://www.youtube.com/watch?v=ERNo3B45txY">このビデオの男さん</a>からメロンパン食べて行くつもりの着想を得た。でもこのビデオ時から、店は近くで移動させた。サクサクの皮、ふわふわの中に、完璧だな。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_meronpan.jpeg" />
 	<div class="caption">
@@ -201,7 +198,6 @@ helper: blog
 	</div>
 </div>
 
-
 <strong>モスバーガー</strong>。まあまあ。ソースとビーフパッチはご飯であった方がいいと思えます。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kyoto_mos.jpeg" />
@@ -210,7 +206,7 @@ helper: blog
 	</div>
 </div>
 
-<strong>ミスタドーナツ</strong>。京都駅のミスタードーナツです！抹茶ドリンクの後味が悪いさ、期限切れの牛乳味見のようなー、残念。とりあえず、とりあえず、少し甘かったドーナツよかった。
+<strong>ミスタドーナツ</strong>。京都駅内のミスタードーナツです！色々な形とキラキラグレイスドーナツ。しかし苦情１つがあった、抹茶ドリンクの後味が悪いさ、期限切れの牛乳味見のような。とりあえず、少し甘かったドーナツよかった。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kyoto_eki_donut.jpeg" />
 	<div class="caption">
@@ -218,7 +214,7 @@ helper: blog
 	</div>
 </div>
 
-<strong>新宿：First Kitchen</strong>
+<strong>新宿：First Kitchen</strong>。新宿場所で！小さい分量。。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_fakusarada.jpeg" />
 	<div class="caption">
