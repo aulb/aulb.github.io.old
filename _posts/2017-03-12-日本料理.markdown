@@ -210,7 +210,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kyoto_eki_donut.jpeg" />
 	<div class="caption">
-		--
+		京都駅にぎやかなー
 	</div>
 </div>
 
