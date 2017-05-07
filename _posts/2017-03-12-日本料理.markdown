@@ -238,7 +238,7 @@ helper: blog
 	</div>
 </div>
 
-次の写真は奈良駅の近くにあるレストランです！そこレストランの名前英は変な。。英語に翻訳したとたんに。
+次の写真は奈良駅の近くにあるレストランです！そこレストランの名前は変な。。英語に翻訳したとたんに。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/nara_nagood.jpeg" />
 	<div class="caption">
