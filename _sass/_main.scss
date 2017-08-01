@@ -1,7 +1,7 @@
 /* Need this here for the centering trick */
 html {
   height: 100%;
-  background: rgba(0,0,0,0); 
+  background: rgba(0,0,0,0);
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -12,10 +12,10 @@ body {
   letter-spacing: 0.01rem;
   line-height: 1.5em;
   margin: 0 auto;
-  color: #3A4145;
+  color: rgb(69,69,69);
   display: table;
   line-height: 1.6;
-  font-size: 1.4em;
+  font-size: 2.0em;
   text-rendering: geometricPrecision;
 }
 
@@ -30,6 +30,7 @@ h1, h2, h3, h4, h5, h6 {
   // Padding for mobiles and stuff
   padding: 1em;
   max-width: 34em;
+  min-width: 15em;
 }
 
 
@@ -41,7 +42,7 @@ ul {
 }
 
 #logo {
-  float: left;  
+  float: left;
 }
 
 #option {
@@ -70,7 +71,8 @@ a {
 }
 
 #copyright {
-  font-size: 0.75em;
+  font-size: 0.5em;
+  color: rgba(32,32,32,0.75);
 }
 
 #highlight {
@@ -141,82 +143,4 @@ hr {
   -moz-animation-fill-mode: forwards;
   -moz-animation-name: fadeIn;
   -moz-animation-duration: 1s;
-}
-
-
-/* POKEVIZ SPECIFIC */
-.pokevis_options{
-  display: inline;
-}
-
-label {
-  float: left;
-  clear: none;
-  display: block;
-  padding: 0;
-}
-
-input.radio {
-  float: left;
-  clear: none;
-  margin: 0;
-}
-
-table {
-    border-collapse: collapse;
-    border-spacing: 0px;
-    table-layout: fixed;
-    height: 722px;
-    widht: 722px;
-}
- 
-td {
-    text-align: center; 
-    vertical-align: middle;
-    color: "#FFFFFF";
-}
-
-img.hidden {
-    visibility: hidden;
-}
-
-img.visible {
-    visibility: visible;
-    display: block; 
-    margin:0 auto; 
-}
-
-#pokeChart2 {
-    height: 500px;
-    display: block;
-    margin: 0 auto;
-    position: relative;
-    width: 720px;
-}
-
-.legend {
-    font-size: 12px;
-}
-
-rect {
-    stroke-width: 1;
-}
-
-circle {
-  background: #eee;
-}
-
-.tooltip {
-    background: #eee;
-    box-shadow: 0 0 5px #999999;
-    color: #333;
-    display: none;
-    font-size: 12px;
-    left: 200px;
-    padding: 10px;
-    position: absolute;
-    text-align: center;
-    top: 150px;
-    width: 100px;
-    z-index: 10;
 }

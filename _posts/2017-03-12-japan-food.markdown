@@ -7,7 +7,7 @@ lang: jp
 helper: blog
 ---
 <header><h1>食事スライドショーへようこそ🍴</h1></header>
-日本に８月２０１６遊びに行っておいしいものをたくさん食べた。 食事を食べててとっても楽しい気分になれますよ。友達と一緒に日本ですっっごく楽しいこともしましたから、また行きたい！まだ日本語勉強中だから、間違ったことがあるかもしれない。飯テロ注意、こちらから食事の写真〜
+昨年の８月日本に遊びに行ってうまいものをたくさん食べましたよ。 食事を食べててとっても楽しい気分になれました。友達といて日本ですっごく楽しいこともしましたから、また行きたい！まだ日本語勉強中だから、間違ったことがあるかもしれません。こちらから食事の写真と飯テロ、注意
 
 <h2>🌟ラーメン屋</h2>
 <strong><a href="https://tabelog.com/en/aomori/A0201/A020101/2008312/">ラァメンぼーんず</a></strong>。小さいバースタイルの店で７人座れるカウンターがあった。そして日本でぼくの初めてラーメンは海鮮味噌汁ラーメン！メニューの英語翻訳わかんないにもかかわらず注文した。
@@ -26,7 +26,7 @@ helper: blog
 	</div>
 </div>
 
-<strong><a href="https://tabelog.com/en/tokyo/A1310/A131002/13097205/">カラシビ味噌らー麺鬼金棒千代田店</a></strong>。次、店員さんたち英語で通じると辛さと痺れが選べるラーメン屋。 辛いだけのラーメンたくさんある。塩辛すぎとんこつ麺をもらったのですが、最高だ。
+<strong><a href="https://tabelog.com/en/tokyo/A1310/A131002/13097205/">カラシビ味噌らー麺鬼金棒千代田店</a></strong>。次、英語できる店員さんたち辛さと痺れが選べるラーメン屋。 辛いだけのラーメンたくさんある。塩辛すぎとんこつ麺をもらったのですが、最高だ。
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_ramen.jpeg" />
@@ -73,7 +73,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/hachinohe_kaitenzushi4.jpeg" />
 	<div class="caption">
-		メニューです〜	
+		メニューです〜
 	</div>
 </div>
 
@@ -87,7 +87,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/hachinohe_kaitenzushi3.jpeg" />
 	<div class="caption">
-		赤🍷〜 
+		赤🍷〜
 	</div>
 </div>
 
@@ -121,7 +121,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/osaka_deluxe_teishoku.jpeg" />
 	<div class="caption">
-		毎日食べたい	
+		毎日食べたい
 	</div>
 </div>
 
@@ -151,7 +151,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kobe_kabocha.jpeg" />
 	<div class="caption">
-		クリーミーなぁ〜	
+		クリーミーなぁ〜
 	</div>
 </div>
 
@@ -169,7 +169,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kobe_shiratama_honmono.jpeg" />
 	<div class="caption">
-		たしかに1000万ドルの夜景	
+		たしかに1000万ドルの夜景
 	</div>
 </div>
 
@@ -202,7 +202,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kyoto_mos.jpeg" />
 	<div class="caption">
-		🍟✨	
+		🍟✨
 	</div>
 </div>
 
@@ -225,7 +225,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_fakusarada_no_ue.jpeg" />
 	<div class="caption">
-	おkだ	
+	おkだ
 	</div>
 </div>
 

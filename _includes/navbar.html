@@ -1,54 +1,10 @@
-{% assign suffix = '' %}
-{% assign langswitch = '/' | append: page.helper %}
-{% if page.lang != 'en' and page.lang != null %}
-	{% assign suffix = '' | append: '_' | append: page.lang %}
-{% endif %}
-
-{% if page.lang == 'en' and page.lang != null %}
-	{% assign langswitch = '/' | append: page.helper or post.helper | append: '_jp' %}
-{% endif %}
-
 <ul>
 	<li>
 		<h1 id="logo">
 			<a href="/index{{ suffix }}">
-				{% if page.lang == 'jp' %} 
-					あるばーと
-				{% else %}
-					Albert
-				{% endif %}
+				Albert
 			</a>
 		</h1>
-	</li>
-
-	<li>
-		<div id="option">
-			<p>
-				<a href="/blog{{ suffix }}">
-					{% if page.lang == 'jp' %}
-						ブログ
-					{% else %}
-						Note
-					{% endif %}
-				</a>
-
-				<a href="/project{{ suffix }}">
-					{% if page.lang == 'jp' %}
-						プロジェクト
-					{% else %}
-						Project
-					{% endif %}
-				</a>
-				
-				<a href="{{ langswitch }}">
-					{% if page.lang == 'jp' %}
-						English
-					{% else %}
-						日本語
-					{% endif %}
-				</a>
-			</p>
-		</div>
 	</li>
 </ul>
 <hr>
