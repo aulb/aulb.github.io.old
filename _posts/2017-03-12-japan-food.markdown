@@ -1,32 +1,30 @@
 ---
 layout: post
-title:  "日本で食べログ🍻"
-date:   2016-08-05 00:00:00 -0500
+title:  "🍻日本で食べログ"
+date:   2016-08-30
 categories: japan
-lang: jp
-helper: blog
 ---
-<header><h1>食事スライドショーへようこそ🍴</h1></header>
-昨年の８月日本に遊びに行ってうまいものをたくさん食べましたよ。 食事を食べててとっても楽しい気分になれました。友達といて日本ですっごく楽しいこともしましたから、また行きたい！まだ日本語勉強中だから、間違ったことがあるかもしれません。こちらから食事の写真と飯テロ、注意
+<header><h1>飯スライドショーへようこそ🍴</h1></header>
+昨年の８月日本に遊びに行ってうまいものを食べました。日本の食事を食べていて楽しい気分になれました。友達といて日本ですごく楽しいこともいったら、また行きたいー！まだ日本語勉強中だから、間違ったことがあるかもしれません。こっちから飯テロ注意っ
 
-<h2>🌟ラーメン屋</h2>
-<strong><a href="https://tabelog.com/en/aomori/A0201/A020101/2008312/">ラァメンぼーんず</a></strong>。小さいバースタイルの店で７人座れるカウンターがあった。そして日本でぼくの初めてラーメンは海鮮味噌汁ラーメン！メニューの英語翻訳わかんないにもかかわらず注文した。
+<h2>🍜麺屋</h2>
+<strong><a href="https://tabelog.com/en/aomori/A0201/A020101/2008312/">ラァメンぼーんず</a></strong>。小さいバースタイルの店で７人座れるカウンターがありました。そして日本でぼくの初めてラーメンは海鮮味噌汁ラーメン！メニューの英語翻訳わかんないにもかかわらず注文しました。
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/aomori_menu.jpeg" />
 	<div class="caption">
-		「I'll save Chinese noodles」っておもしろい
+		「I'll save Chinese noodles」っておもしろい訳
 	</div>
 </div>
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/aomori_miso.jpeg" />
 	<div class="caption">
-		煮干し味噌マー油らーめん食べたっと思う
+		煮干し味噌マー油らーめん、すごい黒
 	</div>
 </div>
 
-<strong><a href="https://tabelog.com/en/tokyo/A1310/A131002/13097205/">カラシビ味噌らー麺鬼金棒千代田店</a></strong>。次、英語できる店員さんたち辛さと痺れが選べるラーメン屋。 辛いだけのラーメンたくさんある。塩辛すぎとんこつ麺をもらったのですが、最高だ。
+<strong><a href="https://tabelog.com/en/tokyo/A1310/A131002/13097205/">カラシビ味噌らー麺鬼金棒千代田店</a></strong>。次、英語できるお店員さんたち、辛さと痺れが選べるラーメン屋。 辛いだけのラーメンたくさんありました。塩辛すぎとんこつ麺をもらったのですが、本当に最高でした。
 
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_ramen.jpeg" />
@@ -35,7 +33,7 @@ helper: blog
 	</div>
 </div>
 
-<strong><a href="https://www.tripadvisor.jp/Restaurant_Review-g298566-d3944229-Reviews-Ichiran_Dotonbori-Osaka_Osaka_Prefecture_Kinki.html">一蘭ドントン彫り店</a></strong>。ちょっと辛い物た食べれるから辛チャレンジしない。いつものラーメンが別に何もないよ。
+<strong><a href="https://www.tripadvisor.jp/Restaurant_Review-g298566-d3944229-Reviews-Ichiran_Dotonbori-Osaka_Osaka_Prefecture_Kinki.html">一蘭ドントン彫り店</a></strong>。ちょっと辛い物食べれるから辛チャレンジしません。いつものラーメンが別に何もないよ、普通麺でした。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/osaka_ichiran.jpeg" />
 	<div class="caption">
@@ -44,12 +42,12 @@ helper: blog
 </div>
 
 
-<h2>🌟寿司屋</h2>
-<strong><a href="http://www.aomori-ichiba.com/nokkedon/">古川市場のっけ丼</a>。</strong> 魚市場の中では自分で海鮮を買ってすしボールを作れた。５４０円５個入りか１０８０円１０個入りのクーポンを買えた。１トッピングずつ１か２チケット必要で大きいのは３チケット必要だった。「どこからきたの？」って市場中のおばあちゃんが聞いて卵焼きをくれた。
+<h2>🍣お寿司屋</h2>
+<strong><a href="http://www.aomori-ichiba.com/nokkedon/">古川市場のっけ丼</a>。</strong> 魚市場の中では自分で海鮮を買ってすしボールを作れた。５４０円５個入りか１０８０円１０個入りのクーポンを買えた。１トッピングずつ１か２チケット必要で大きいのは３チケット必要だった。市場中のおばあちゃんは「どこからきたの？」って聞いて卵焼きをくれた。
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/aomori_nokkedon.jpeg" />
 	<div class="caption">
-		楽しい作るの🎶
+		さっぱり作るの🎶
 	</div>
 </div>
 
@@ -80,7 +78,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/hachinohe_kaitenzushi1.jpeg" />
 	<div class="caption">
-		UFOみたい
+		UFOみたいな
 	</div>
 </div>
 
@@ -106,7 +104,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_monjayaki.jpeg" />
 	<div class="caption">
-		かかていた。。。
+		かかていた。。
 	</div>
 </div>
 
@@ -114,7 +112,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/osaka_fried.jpeg" />
 	<div class="caption">
-		😍
+		今は揚げ物が好きだとおもえます😍
 	</div>
 </div>
 
@@ -130,7 +128,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kobe_morya.jpeg" />
 	<div class="caption">
-		ロシア語レッスン〜ヤテビャ＝すきだ
+		ロシア語レッスン〜ヤテビャとはすきだ💕
 	</div>
 </div>
 
@@ -151,7 +149,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kobe_kabocha.jpeg" />
 	<div class="caption">
-		クリーミーなぁ〜
+		クリーミーなぁ〜ずにはいられないー♫
 	</div>
 </div>
 
@@ -161,7 +159,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_nakano_nagai_aisu.jpeg" />
 	<div class="caption">
-		「子供の頃の夢が叶うソフトクリーム」
+		「子ども頃の夢が叶うソフトクリーム」
 	</div>
 </div>
 
@@ -169,7 +167,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kobe_shiratama_honmono.jpeg" />
 	<div class="caption">
-		たしかに1000万ドルの夜景
+		確かに1億ドルの夜景
 	</div>
 </div>
 
@@ -177,7 +175,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_meronpan.jpeg" />
 	<div class="caption">
-		クリスピーなパン。バニラアイス入れる！
+		さくさくパン。バニラアイス入れる！
 	</div>
 </div>
 
@@ -186,7 +184,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/kyoto_makudo.jpeg" />
 	<div class="caption">
-		それは本当にアジアでハンバーグ小さいだよねー
+		アジアでハンバーグ小さい感じだよねー
 	</div>
 </div>
 
@@ -225,7 +223,7 @@ helper: blog
 <div class="capContainer">
 	<img class="blogpic" src="/photos/food/tokyo_fakusarada_no_ue.jpeg" />
 	<div class="caption">
-	おkだ
+	おkです
 	</div>
 </div>
 
