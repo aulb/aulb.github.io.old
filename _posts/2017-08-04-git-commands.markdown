@@ -5,7 +5,7 @@ date:   2017-08-04
 categories: git
 ---
 # Useful Beginner git Commands
-These were the git commands that I find useful during my development time.
+These were the git commands that I find useful during my development time. The most important git trick I learned is to not be scared and start a new clean branch whenever it gets too complicated. Cherrypicking commits from the failed branch is always an option, provided that we commit frequently and cleanly.
 
 ### Dry running a commit to check of what it'll do.
 The `—dry-run` flag exist and its a good thing to use when I wasn't sure of what the commands would do.
