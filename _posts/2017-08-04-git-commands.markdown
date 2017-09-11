@@ -39,7 +39,7 @@ Instead of renaming the file directly, its better to use the command below to he
 `git mv <old_filename> <new_filename>`
 
 ### Github specific feature!
-Though this isn't a git command, it was one of the feature I found useful from the most popular git service. One of my pull request was heavy in terms of whitespace linting, diluting the meat of why the request was made in the first place. Fortunately github build a whole slew of features to help with pull requests, one of which was directly relevant to my case. Add `?w=1` when viewing the diffs. More here https://github.com/blog/967-github-secrets.
+Though this isn't a git command, it was one of the feature I found useful from the most popular git service. One of my pull request was heavy in terms of whitespace linting, diluting the meat of why the request was made in the first place. Fortunately github build a whole slew of features to help with pull requests, one of which was directly relevant to my case. Add `?w=1` when viewing the diffs. More here over at <a href="https://github.com/blog/967-github-secrets">github secrets</a>.
 
 <!-- Renaming files/folders with git
 https://blog.filippo.io/git-fixup-amending-an-older-commit/
