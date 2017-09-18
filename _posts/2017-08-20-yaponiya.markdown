@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "⚡️yaponiya"
+date:   2017-08-20
+categories: side-projects
+---
+# Inspiration
+I've always been interested in the Japanese language. Studied formally for about a school year. By then I decided that other courses take more priority and been studying Japanese on the side on and off since. I had a lot of trouble memorizing kanjis specifically, nothing ever seem to stick properly. Not until I joined my first job that I realize kanjis are fun to learn.
+
+My commute to work was about one to one half hour long and I try to dedicate half the time commuting to reading something new or from r/learnjapanese. I started recognizing more and more kanjis just by reading people's short replies containing compounded kanji words. One of the biggest help was coworkers that were constantly teaching me Mandarin, whether it be writing or speaking. Just looking at how they chunk and write things down helped me tenfold.
+
+I wanted to do a Japanese related side project, and came across Kaisuu. It was simple and fun. The only downside was that the kanjis weren't sortable any other way. I thought it would be fun to fork the idea, extend it a little bit, and learn new framework. That gave rise to Yaponiya (Япония) the Russian word for Japan.
+
+# Enhancements
+- Kanjis to be sort-able in ascending or descending order
+- Kanjis to be order-able by other categories such as news rank or grade in which Japanese school kids learn
+- Small information about the kanji, making each kanji clickable
+
+
+# Technical Challenges
+- Managing callback hell
+- RESTful API naming
+- HTTP/HTTPS serving CORS
+- React Router, configuring NGINX, client side routing
+- Managing README.md
+- React and Ajax
+- React and "realtime" updates
+less components
+- Redux Persistence
+
+Missouts:
+- TDD
+
+In collaboration with reblws.
+
+Relevant links:
+https://github.com/matiassingers/awesome-readme
