@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "🐝 yaponiya япония"
+date:   2017-09-01
+categories: side-projects
+---
+Come visit <a href="http://yaponiya.reblws.me">yaponiya</a>.
+# 🐝 Demo Demo
+<div class="capContainer">
+  <img class="blogpic" src="/photos/yapopics/5yUtILqOed.gif" />
+	<div class="caption">
+		Simple kanji ordering and sorting
+	</div>
+</div>
+
+<div class="capContainer">
+  <img class="blogpic" src="/photos/yapopics/WaHbGeUHa2.gif" />
+	<div class="caption">
+		Simple kanji lookup!
+	</div>
+</div>
+
+# 🐝 Inspiration
+I wanted to do a Japanese related side project. I had a few different ideas floating such as automatic grammar tagger (might bee too hardcore tbh) and perhaps something like kanji frequency, thats when I came across Kaisuu. It was simple and fun. The only downside was that the kanjis weren't sortable any other way. I thought it would be fun to fork the idea, extend it a little bit, and learn new framework (REACT). That gave rise to <a href="http://yaponiya.reblws.me">**Yaponiya**</a> (Япония) the Russian word for Japan.
+
+# 🐝 Website Features
+The main feature of the website is to see the individual kanji flicker as tweets are being tweeted out in realtime. This is done by clicking the Twitter logo at the top. Its fun to see which ones flicker the most. In addition to that we thought of and implemented some additional features such as:
+
+- 🌸 Kanji sorting, in ascending or descending order
+- 🌸 Kanjis ordering, in different ways by categories
+- 🌸 Small information about the kanji, making each kanji clickable
+
+The ordering was mainly to see the blocks of kanjis and see which ones are used the most. Unsurprisingly the lower level kanjis are most used (by grade and JLPT).
+
+# 🐝 Technical Challenges
+Here are some of the highlights from this project. Me and my project partner learned a great deal of things throughout the project and its fun to document these. One major thing we missed out is probably testing, powerful yet forgetable for projects like this.
+## 🐊 Project managing
+I started off by wanting to incorporate too much and irrelevant information such as NHK News stats.
+
+<a href="https://github.com/matiassingers/awesome-readme">How to make good README</a>.
+## 🐊 Managing Callback Hell
+## 🐊 RESTful API naming
+## 🐊 HTTP/HTTPS serving CORS
+## 🐊 React Router
+configuring NGINX, client side routing
+## 🐊 Managing README.md
+## 🐊 React and Ajax and "realtime" updates
+## 🐊 Redux Persistence
+## 🐊 Immutable.js
+
+In collaboration with <a href="https://github.com/reblws">reblws</a>.

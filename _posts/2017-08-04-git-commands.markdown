@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "⚡️Useful Git Commands"
+title:  "⚡️ Useful Beginner Git Commands"
 date:   2017-08-04
 categories: git
 ---

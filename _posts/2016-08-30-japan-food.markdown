@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🍻日本で食べログ"
+title:  "🍜 日本で食べログ"
 date:   2016-08-30
 categories: japan
 ---
