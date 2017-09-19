@@ -48,4 +48,4 @@ configuring NGINX, client side routing
 ## 🐊 Redux Persistence
 ## 🐊 Immutable.js
 
-In collaboration with <a href="https://github.com/reblws">reblws</a>.
+<a href="https://www.youtube.com/watch?v=VCVjbrt30tY">Deliver</a>ed with <a href="https://github.com/reblws">reblws</a>.
