@@ -57,8 +57,8 @@ name, rating, categories, price
   const mainmoji = foodmoji[mainCategory];
   const aliases = categories
     .map((category => {
-      let { alias } = category;
-      return parseAliasString(alias);
+      let { title } = category;
+      return title;
     }))
     .join(', ');
   const dollars = price.split('').map(item => '💵').join('');
@@ -70,9 +70,4 @@ name, rating, categories, price
     <strong>${mainmoji} ${name}</strong>
     <p>Categories: ${aliases}. ${stars} ${dollars}</p>
   </div>`;
-}
-
-function parseAliasString(alias) {
-  const purified = alias.replace('-', '').replace('_', '');
-  return `${purified.charAt(0).toUpperCase()}${purified.slice(1,)}`
 }
