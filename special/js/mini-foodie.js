@@ -48,11 +48,7 @@ function initMarkers(map) {
 }
 
 function getContent(place) {
-/*
-name, rating, categories, price
-*/
   const { name, rating, categories, price } = place;
-
   const mainCategory = place['categories'][0]['alias'];
   const mainmoji = foodmoji[mainCategory];
   const aliases = categories
@@ -61,7 +57,7 @@ name, rating, categories, price
       return title;
     }))
     .join(', ');
-  const dollars = price.split('').map(item => '💵').join('');
+  const dollars = price.split('').map(money => '💵').join('');
   let stars = '';
   for (let i = 0; i < parseInt(rating); i++) {
     stars = stars + '⭐';

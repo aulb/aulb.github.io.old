@@ -1,7 +1,7 @@
 # Site settings
-title: Albert Untung
+title: albert
 email: aalbertuntung@gmail.com
-description: "Albert Untung: a developer based in Toronto."
+description: "Albert Untung: Software (developer) person from Toronto."
 baseurl: "" # base
 url: "http://albert.wtf" # base
 
