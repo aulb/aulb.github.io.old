@@ -178,11 +178,11 @@
 .fa-inverse {
   color: #ffffff;
 }
-.fa-linkedin:before {
-  content: "\f0e1";
+.fa-linkedin-square:before {
+  content: "\f08c";
 }
-.fa-github:before {
-  content: "\f09b";
+.fa-github-square:before {
+  content: "\f092";
 }
 .fa-envelope:before {
   content: "\f0e0";

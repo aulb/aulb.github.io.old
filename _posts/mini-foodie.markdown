@@ -17,7 +17,6 @@ What do I hope to achieve from this?
 To see the map please go here:
 Screenshot!
 
-
 How can I do it?
 I decided to open a Yelp account and begin dumping my memory as reviews.
 The reason as to why I chose to document on Yelp
@@ -38,4 +37,7 @@ In regards to places with other branches/franchise locations, I just simply chos
 Required a lot of manual intervention.
 
 Would I continue this again?
-Probably not, its too time consuming to manually update places I've been to.
+Probably not, its too time consuming to manually update places I've been to. Also I was lateなの。
+
+
+以上です♪
