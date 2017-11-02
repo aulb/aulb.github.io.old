@@ -13,18 +13,6 @@ Topics to talk with your interviewer in a software engineering interview. In add
 - ◇ How does this company fit into your career goals
 - ◇ Tell me about a time where you revolutionize the way something is done (work/school)
 
-# Difficult Situation
-- ◇ Disagreements and how you work through a disagreements
-- ◇ What about disagreements when you have very strong opinions about
-- ◇ How would you deal with missing deadlines
-- ◇ Tell me about a time where you miss a deadline
-- ◇ Describe your old boss, how would they rate you
-
-# Hobbies
-- ◇ What other non technical interest do you have
-- ◇ Walk me through your most interesting side project
-- ◇ What did you build with your best language
-
 # Software Engineering
 - ◇ Whats the most complex problem you solved recently with a simple solution
 - ◇ What is a good tech stack
@@ -44,6 +32,18 @@ Topics to talk with your interviewer in a software engineering interview. In add
 - ◇ How would you debug something that keeps seg faulting
 - ◇ How did you get into coding
 - ◇ Explain concepts (API) to a five year old kid
+
+# Difficult Situation
+- ◇ Disagreements and how would you work through a disagreement
+- ◇ What about disagreements where you have very strong opinions about
+- ◇ How would you deal with missing deadlines
+- ◇ Tell me about a time where you miss a deadline and the resolution
+- ◇ Describe your old boss, how would they rate you
+
+# Hobbies
+- ◇ What other non technical interest do you have
+- ◇ Walk me through your most interesting side project
+- ◇ What did you build with your best language
 
 # Basics
 - ◇ What interests you
