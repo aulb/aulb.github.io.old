@@ -49,6 +49,7 @@ Topics to talk with your interviewer in a software engineering interview. In add
 - ◇ What interests you
 - ◇ What motivates you to go to work everyday
 - ◇ What makes you happy
+- ◇ What do you do for fun
 - ◇ What are your greatest strengths, greatest weakness
 - ◇ What do you do at work, how is your work? 
 - ◇ Under 1 minute tell me about yourself
