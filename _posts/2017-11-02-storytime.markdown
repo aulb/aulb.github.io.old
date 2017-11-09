@@ -39,6 +39,10 @@ Topics to talk with your interviewer in a software engineering interview. In add
 - ◇ How would you deal with missing deadlines
 - ◇ Tell me about a time where you miss a deadline and the resolution
 - ◇ Describe your old boss, how would they rate you
+- ◇ How do you handle conflicts between teammates
+- ◇ How do you deal with getting stuck or hitting a wall
+- ◇ What do you do when there is a downtime in between development cycles
+- ◇ How do you request more time for a project
 
 # Hobbies
 - ◇ What other non technical interest do you have
@@ -55,6 +59,7 @@ Topics to talk with your interviewer in a software engineering interview. In add
 - ◇ Under 1 minute tell me about yourself
 - ◇ What are your next steps, goals
 - ◇ Have you mentored before? Tell me about your mentoring experience
+- ◇ What does getting it right the first time mean to you
 - ◇ Ask the interviewer anything: questions about the company, product, engineering culture
 
 # Logistics
