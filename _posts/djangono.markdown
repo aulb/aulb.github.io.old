@@ -16,3 +16,10 @@ First thing:
 1) Make models define all the models you'll need to make this API
 in my case I wanted to make report, work_hour, job_group
 2)	
+
+- Do more Django tutorials
+I did this one today,
+https://medium.com/@ktruong008/building-an-api-with-django-rest-framework-and-class-based-views-75b369b30396
+
+Get to know a bunch of stuff:
+What I learned from it
