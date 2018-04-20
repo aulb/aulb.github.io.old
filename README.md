@@ -1,4 +1,2 @@
---
-Blog addition, writing underway.
-Merge pokeviz here!
-Diverge language, unmerge languages
+jekyll based blog
+final commit
